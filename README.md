@@ -12,13 +12,13 @@
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)         | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ `40%` | Em andamento    |
 | ![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white)           | 🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️ `50%` | Em andamento    |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)     | 🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️ `30%` | Em andamento    |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)         | 🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ `20%` | Início          |
 | ![GitHub](https://img.shields.io/badge/Git/GitHub-181717?style=flat&logo=github&logoColor=white)     | 🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️ `60%` | Bom progresso   |
 | 🖥️ **Responsividade** | 🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️ `40%` | Em andamento    |
 
 ---
 
 ### 💻 Tecnologias em uso
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/drizi-b/github-readme-stats)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
