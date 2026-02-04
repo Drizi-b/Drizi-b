@@ -26,4 +26,4 @@
 
 ---
 
-### ❤️ Apaixonado por Tecnologia!
+### ❤️ Apaixonada por Tecnologia!
